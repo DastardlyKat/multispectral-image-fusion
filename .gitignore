@@ -1,0 +1,8 @@
+LLVIP/
+__pycache__/
+*.pyc
+.DS_Store
+comparison_*.png
+output/average/
+output/pca/
+output/wavelet/
